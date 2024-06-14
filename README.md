@@ -11,6 +11,8 @@
 
 Understanding the Relationship Between Inventory Levels and Sales Using SQL-Correlation Coefficient
 
+In inventory management, it's crucial to understand how inventory levels correlate with sales. One effective method for analyzing this relationship is by calculating the Pearson correlation coefficient. In this article, we will break down an SQL query that accomplishes this task, helping you make data-driven decisions to optimize your inventory.
+
 https://tinyurl.com/CorrelationCofficient
 
 </header>
