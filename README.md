@@ -9,7 +9,9 @@
 
 # Blogs
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+Understanding the Relationship Between Inventory Levels and Sales Using SQL-Correlation Coefficient
+
+https://tinyurl.com/CorrelationCofficient
 
 </header>
 
