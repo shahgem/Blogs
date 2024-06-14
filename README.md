@@ -16,7 +16,7 @@ In inventory management, it's crucial to understand how inventory levels correla
 
 https://tinyurl.com/CorrelationCofficient
 
-## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Mastering Inventory Management with Advanced SQL Techniques in SAP Business One
+## ![#b300b3](https://placehold.co/15x15/b300b3/b300b3.png) Mastering Inventory Management with Advanced SQL Techniques in SAP Business One
 
 This article demonstrates pros and implementation processes in SAP Business One by examining two key inventory management strategies – FSA analysis and ABC Analysis.
 
