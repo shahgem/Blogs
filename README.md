@@ -18,7 +18,7 @@ https://tinyurl.com/CorrelationCofficient
 
 ## ![#b300b3](https://placehold.co/15x15/b300b3/b300b3.png) Mastering Inventory Management with Advanced SQL Techniques in SAP Business One
 
-This article demonstrates pros and implementation processes in SAP Business One by examining two key inventory management strategies – FSA analysis and ABC Analysis.
+This article demonstrates pros and implementation processes in SAP Business One by examining two key inventory management strategies – FSA (Fast & Slow Moving) analysis and ABC Analysis.
 
 https://tinyurl.com/Inventory-FSN-and-ABC-Analysis
 
