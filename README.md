@@ -22,7 +22,7 @@ This article demonstrates pros and implementation processes in SAP Business One 
 
 https://tinyurl.com/Inventory-FSN-and-ABC-Analysis
 
-##  ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Analyzing Customer Performance with Advanced SQL Queries in SAP Business One
+##  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Analyzing Customer Performance with Advanced SQL Queries in SAP Business One
 
 With businesses that continue to grow and automation of processes is taking place, it is important to take a deep dive to gain insights into customer’s behaviour and its performance that can have a significant impact on the outcome on the business. SAP Business One has that flexibility and it also provides tools to extract key information from our data that can help us make informed decisions. Through this blog, we will try to explore and advanced SQL query that can help us analyze different aspects of business partner.
 
