@@ -1,13 +1,10 @@
-<header>
+<h1 align="center" style="color: #333; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <span style="font-weight: bold;">Data-Driven Insights for Business Optimization</span>
+</h1>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# Blogs
+<p align="center" style="color: #666; font-style: italic;">
+  Exploring SQL and SAP Business One strategies for informed decision-making.
+</p>
 
 
 ## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Understanding the Relationship Between Inventory Levels and Sales Using SQL-Correlation Coefficient
