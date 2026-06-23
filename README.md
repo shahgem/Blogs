@@ -63,7 +63,7 @@ Understand how inventory levels relate to sales performance by calculating the P
 - SQL-based analytical approach
 - Data-driven inventory decisions
 
-<a href="https://tinyurl.com/CorrelationCofficient">
+<a href="./articles/inventory-sales-correlation-sql.md">
   <img src="https://img.shields.io/badge/Read%20Article-Open%20Blog-0077B5?style=for-the-badge&logo=readme&logoColor=white" alt="Read inventory and sales correlation article"/>
 </a>
 
@@ -83,7 +83,7 @@ Explore inventory management strategies in SAP Business One using FSN analysis a
 - SQL implementation logic
 - Inventory optimization insights
 
-<a href="https://tinyurl.com/Inventory-FSN-and-ABC-Analysis">
+<a href="./articles/sap-business-one-fsn-abc-analysis.md">
   <img src="https://img.shields.io/badge/Read%20Article-Open%20Blog-0F766E?style=for-the-badge&logo=readme&logoColor=white" alt="Read inventory FSN and ABC analysis article"/>
 </a>
 
@@ -103,7 +103,7 @@ Analyze customer behavior and business partner performance using advanced SQL qu
 - SQL-driven reporting
 - Sales and customer insights
 
-<a href="https://tinyurl.com/Customer-Performance-analysis">
+<a href="./articles/customer-performance-sql-sap-business-one.md">
   <img src="https://img.shields.io/badge/Read%20Article-Open%20Blog-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Read customer performance analysis article"/>
 </a>
 
@@ -117,11 +117,10 @@ Analyze customer behavior and business partner performance using advanced SQL qu
 
 | Topic | Article | Focus Area | Link |
 |---|---|---|---|
-| Inventory Analytics | Understanding the Relationship Between Inventory Levels and Sales Using SQL Correlation Coefficient | SQL, Pearson Correlation, Inventory and Sales | [Read Article](https://tinyurl.com/CorrelationCofficient) |
-| SAP Business One | Mastering Inventory Management with Advanced SQL Techniques in SAP Business One | FSN Analysis, ABC Analysis, Inventory Optimization | [Read Article](https://tinyurl.com/Inventory-FSN-and-ABC-Analysis) |
-| Customer Analytics | Analyzing Customer Performance with Advanced SQL Queries in SAP Business One | Customer Performance, Business Partner Analysis, SQL Reporting | [Read Article](https://tinyurl.com/Customer-Performance-analysis) |
+| Inventory Analytics | Understanding the Relationship Between Inventory Levels and Sales Using SQL Correlation Coefficient | SQL, Pearson Correlation, Inventory and Sales | [Read Article](./articles/inventory-sales-correlation-sql.md) |
+| SAP Business One | Mastering Inventory Management with Advanced SQL Techniques in SAP Business One | FSN Analysis, ABC Analysis, Inventory Optimization | [Read Article](./articles/sap-business-one-fsn-abc-analysis.md) |
+| Customer Analytics | Analyzing Customer Performance with Advanced SQL Queries in SAP Business One | Customer Performance, Business Partner Analysis, SQL Reporting | [Read Article](./articles/customer-performance-sql-sap-business-one.md) |
 
----
 
 ## Analytics Themes
 
