@@ -232,4 +232,4 @@ I write about practical ways to use SQL, SAP Business One, analytics, and report
     alt="Footer wave design"
   />
 </p>
-```
+
